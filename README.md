@@ -1,6 +1,6 @@
 # CoinCashy
 WP store project
-## Trchnikal Task
+## Technical Task
 ### Developed : 
 [Уже установлен сайт с плагинами](https://coincashy.com/)
 
@@ -26,12 +26,13 @@ WP store project
 Деньги + Коины (RPT)
 нужно разработать две цены, цена в деньгах + цена в коинах RPT как на сайте https://dealshaker.com (Need to develoop duble prices like on https://dealshaker.com But with accepting RPT).
 
+| ![](https://github.com/gda2016/CoinCashy/blob/master/task%200.png) | ![](https://github.com/gda2016/CoinCashy/blob/master/task%203.png) |
+|-----------------|--------------------|
+![](https://github.com/gda2016/CoinCashy/blob/master/task%204.png)
 
 ### Task 4 : 
 Фукцион типа 
 сделать копию функционала этого сайта, вместо ojooo используем RPT (Need to develop a functionality similar to http://by-wad.ojooo.com)
 [Login@password](https://www.meistertask.com/app/task/qAGv9Bl9/done-earlear)
 #### ! Have to let a payments to see the price.
-| ![](https://github.com/gda2016/CoinCashy/blob/master/task%200.png) | ![](https://github.com/gda2016/CoinCashy/blob/master/task%203.png) |
 
-![](https://github.com/gda2016/CoinCashy/blob/master/task%204.png)
