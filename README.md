@@ -18,7 +18,7 @@ WP store project
 - [ ] SubTask 3 :
 ### Task 2 : 
 Только коины (RPT) переделать под RPT (Будет писать и эстимейтить другой разработчик) (May be it can done with code of https://copay.io modified for RPT.)
-
+![](https://github.com/gda2016/CoinCashy/blob/master/task%204.png)
 ### Task 3 : 
 Деньги + Коины (RPT)
 нужно разработать две цены, цена в деньгах + цена в коинах RPT как на сайте https://dealshaker.com (Need to develoop duble prices like on https://dealshaker.com But with accepting RPT).
