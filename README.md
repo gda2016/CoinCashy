@@ -7,7 +7,7 @@ WP store project
 - [x] WP E-Commerce web site with: 
     - [x] WooCommerce
     - [x] LionShop theme in the base
-- [x] [Хостинг ->]()
+- [x] [Хостинг ->](https://www.meistertask.com/app/task/qAGv9Bl9/done-earlear)
 
 ## Tasks : 
 Придобавление товара на сайе должен быть выбор каким методомнужно брать оплату за товар, выбираеться в админке WP.
