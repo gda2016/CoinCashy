@@ -1,6 +1,6 @@
 # CoinCashy
 WP store project
-## Technical Task
+## Specification Input
 ### Developed : 
 [Уже установлен сайт с плагинами](https://coincashy.com/)
 
@@ -35,4 +35,9 @@ WP store project
 сделать копию функционала этого сайта, вместо ojooo используем RPT (Need to develop a functionality similar to http://by-wad.ojooo.com)
 [Login@password](https://www.meistertask.com/app/task/qAGv9Bl9/done-earlear)
 #### ! Have to let a payments to see the price.
+
+# Technical Task
+
+- [ ] ##  Task 1 : 
+
 
