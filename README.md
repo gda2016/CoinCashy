@@ -29,3 +29,4 @@ WP store project
 сделать копию функционала этого сайта, вместо ojooo используем RPT (Need to develop a functionality similar to http://by-wad.ojooo.com)
 [Login@password](https://www.meistertask.com/app/task/qAGv9Bl9/done-earlear)
 #### ! Have to let a payments to see the price.
+![](https://github.com/gda2016/CoinCashy/blob/master/task%204.png)
