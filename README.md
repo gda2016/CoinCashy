@@ -38,6 +38,6 @@ WP store project
 
 # Technical Task
 
-- [ ] ##  Task 1 : 
+## - [ ] Task 1 : 
 
 
