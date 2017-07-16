@@ -8,6 +8,7 @@ WP store project
     - [x] WooCommerce
     - [x] LionShop theme in the base
 - [x] [Хостинг ->](https://www.meistertask.com/app/task/qAGv9Bl9/done-earlear)
+
 ![](https://github.com/gda2016/CoinCashy/blob/master/task%200.png)
 
 ## Tasks : 
@@ -19,7 +20,7 @@ WP store project
 - [ ] SubTask 3 :
 ### Task 2 : 
 Только коины (RPT) переделать под RPT (Будет писать и эстимейтить другой разработчик) (May be it can done with code of https://copay.io modified for RPT.)
-![](https://github.com/gda2016/CoinCashy/blob/master/task%204.png)
+![](https://github.com/gda2016/CoinCashy/blob/master/task%201-2.png)
 
 ### Task 3 : 
 Деньги + Коины (RPT)
