@@ -21,3 +21,4 @@ WP store project
 ### Task 3 : Деньги + Коины (RPT)
 нужно разработать две цены, цена в деньгах + цена в коинах RPT как на сайте https://dealshaker.com 
 #### ! Need to develoop duble prices like on https://dealshaker.com 
+![](https://github.com/gda2016/CoinCashy/blob/master/task%203.png)
