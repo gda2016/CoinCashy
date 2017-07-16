@@ -15,3 +15,5 @@ WP store project
 - [ ] SubTask 1 :
 - [ ] SubTask 2 :
 - [ ] SubTask 3 :
+### Task 2 : Только коины (RPT) переделать под RPT (Будет писать и эстимейтить другой разработчик)
+#### ! May be it can done with code of https://copay.io ![](https://doc.satoshilabs.com/trezor-apps/_images/copay_logo.png)modified for RPT
