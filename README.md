@@ -38,14 +38,14 @@ WP store project
 
 # Technical Task
 
-## - [ ] Task 1 : 
-    ### - [ ] SubTask 1 :
+- [ ] Task 1 : 
+    - [ ] SubTask 1 :
 
-## - [ ] Task 2 : 
-    ### - [ ] SubTask 1 :
+- [ ] Task 2 : 
+    - [ ] SubTask 1 :
 
-## - [ ] Task 3 : 
-    ### - [ ] SubTask 1 :
+- [ ] Task 3 : 
+    - [ ] SubTask 1 :
 
-## - [ ] Task 4 : 
-    ### - [ ] SubTask 1 :
+- [ ] Task 4 : 
+    - [ ] SubTask 1 :
