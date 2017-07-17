@@ -37,12 +37,16 @@ WP store project
 #### ! Have to let a payments to see the price.
 
 # Solution
-1. By Ready-made paid plugins
+1. By Ready-made paid plugins :
 - [x] [Product Add-Ons](https://woocommerce.com/products/product-add-ons/)
 - [ ] BitPay for copay
-2. By develop plugin
-    - [Payment Gateway API](https://docs.woocommerce.com/document/payment-gateway-api/)
-    - [How to Create a Simple WooCommerce Payment Gateway](https://www.skyverge.com/blog/how-to-create-a-simple-woocommerce-payment-gateway/)
+2. By develop plugin :
+    - Core :
+        - [Payment Gateway API](https://docs.woocommerce.com/document/payment-gateway-api/)
+        - [How to Create a Simple WooCommerce Payment Gateway](https://www.skyverge.com/blog/how-to-create-a-simple-woocommerce-payment-gateway/)
+    - Backend : See Useful material
+    - Frontend : 
+        - [WordPress WooCommerce Front End Editor](https://www.youtube.com/watch?v=p5YKFMU6q5E)
     - Other:
         - [How to accept Bitcoin payments in my website?](https://www.reddit.com/r/Bitcoin/comments/5ov148/question_how_to_accept_bitcoin_payments_in_my/?st=j57x71ig&sh=e4024d42)
         - [Custom Payment Method in WooCommerce](https://stackoverflow.com/questions/17081483/custom-payment-method-in-woocommerce)
