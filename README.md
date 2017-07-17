@@ -41,7 +41,7 @@ WP store project
 - [x] [Product Add-Ons](https://woocommerce.com/products/product-add-ons/)
 - [ ] BitPay for copay
 2. By develop plugin
-    1. Payment Gateway API
+    - Payment Gateway API
 
 # Technical Task
 
