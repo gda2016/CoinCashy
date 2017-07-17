@@ -41,11 +41,15 @@ WP store project
 - [x] [Product Add-Ons](https://woocommerce.com/products/product-add-ons/)
 - [ ] BitPay for copay
 2. By develop plugin
-    - [Payment Gateway API](Payment Gateway API)
+    - [Payment Gateway API](https://docs.woocommerce.com/document/payment-gateway-api/)
     - [How to Create a Simple WooCommerce Payment Gateway](https://www.skyverge.com/blog/how-to-create-a-simple-woocommerce-payment-gateway/)
     - Other:
         - [How to accept Bitcoin payments in my website?](https://www.reddit.com/r/Bitcoin/comments/5ov148/question_how_to_accept_bitcoin_payments_in_my/?st=j57x71ig&sh=e4024d42)
         - [Custom Payment Method in WooCommerce](https://stackoverflow.com/questions/17081483/custom-payment-method-in-woocommerce)
+    - Useful Material:
+        - [How to Customize Your WordPress Admin Dashboard](http://www.wpexplorer.com/customize-wordpress-admin-dashboard/)
+        - [HOW TO CUSTOMIZE THE WORDPRESS BACKEND](https://torquemag.io/2016/08/customize-wordpress-backend-clients/)
+        - [How to Build a Basic WordPress Plugin](https://www.youtube.com/watch?v=tSblOUw97Mc&list=PLIjMj0-5C8TI7Jwell1rTvv5XXyrbKDcy&index=1)
         
 # Technical Task
 
