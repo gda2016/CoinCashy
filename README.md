@@ -36,16 +36,23 @@ WP store project
 [Login@password](https://www.meistertask.com/app/task/qAGv9Bl9/done-earlear)
 #### ! Have to let a payments to see the price.
 
+# Solution
+1. By Ready-made paid plugins
+- [x] [Product Add-Ons](https://woocommerce.com/products/product-add-ons/)
+- [ ] BitPay for copay
+2. By develop plugin
+    1. Payment Gateway API
+
 # Technical Task
 
 - [ ] Task 1 : 
-    - [ ] SubTask 1 :
+    - [ ] Step 1 :
 
 - [ ] Task 2 : 
-    - [ ] SubTask 1 :
+    - [ ] Step 1 :
 
 - [ ] Task 3 : 
-    - [ ] SubTask 1 :
+    - [ ] Step 1 :
 
 - [ ] Task 4 : 
-    - [ ] SubTask 1 :
+    - [ ] Step 1 :
